@@ -1,11 +1,8 @@
- 🎓 Fount AI – Student Helping AI
+ Fount AI 
 
 Fount AI is a smart AI assistant designed to help students study faster and learn better.  
-It can help with homework, explanations, notes, and study support.
-
-## Pictures
-Contact on phone number given further in the readme file for photos and videos
-
+It can help with homework, explanations, notes, and study support. The word 'Fount" stands for Fountain of knowledge
+, signifying growth
 
 ## Live Demo 
 https://fountschools.netlify.app/
@@ -40,40 +37,18 @@ Perfect for:
 - Self Learners
 
 ---
-
-## 💰 Price
-
-**Price: ₹5000**
-(Negotiable)
-
-One-time payment.
+.
 
 ---
 
 ## 📞 Contact
 
-To purchase **Fount AI**, contact:
 
 **Phone / WhatsApp:**  
 +91 9914018681
 
 Country Code: +91 (India)
 
----
-
-📦 How To Get Fount AI
-
-1. Contact on WhatsApp or Phone
-2. Make payment
-3. Receive Fount AI files and instructions
-
----
-
-## ⚡ Installation
-
-Instructions will be provided after purchase.
-
----
 
 ## 🔒 License
 
